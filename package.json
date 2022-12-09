@@ -13,5 +13,8 @@
     "@vueuse/core": "^9.6.0",
     "nuxt": "3.0.0",
     "three": "^0.147.0"
+  },
+  "dependencies": {
+    "gsap": "^3.11.3"
   }
 }
